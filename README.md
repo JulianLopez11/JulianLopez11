@@ -35,6 +35,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg?raw=true" alt="Spring" width="65">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?raw=true" alt="Python" width="65">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg?raw=true" alt="NestJS" width="65">
 </div>
 <br>
