@@ -17,8 +17,8 @@
 👋 Hi, I'm **Julian Lopez**, an enthusiastic **Information Technology** student at **Universidad Escuela Colombiana de Ingenieria Julio Garavito, Colombia**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
 
 ### 💡 What I Do  
-- 💻 **Proficient in:** , Java, Python, JavaScript, React  
-- 🔍 **Passionate about:** Software Development
+- 💻 **Proficient in:** , Java, Python, JavaScript, React, TypeScript, NestJs 
+- 🔍 **Passionate about:** Software Development, Machine Learning
 
 ### 🚀 Looking For  
 - 💼 Exciting **development opportunities & tech collaborations**  
@@ -30,10 +30,12 @@
 <!---Language-->
 <div align="center">
   <h2 align="center">Backend Technologies🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" width="65">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="65">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="NestJS" width="65">
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="65">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg?raw=true" alt="Spring" width="65">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg?raw=true" alt="Python" width="65">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg?raw=true" alt="NestJS" width="65">
 </div>
 <br>
 
@@ -43,6 +45,7 @@
   <h2 align="center">FrontEnd Technologies🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="65">      
 </div>
 <br>
@@ -59,7 +62,7 @@
 <!--Database-->
 <div align="center">
   <h2 align="center">Database🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg?raw=true" alt="MongoDB" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
 </div>
 <br>
@@ -101,10 +104,6 @@
 <p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
 
 
-<!--Footer GIF-->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
 
 
