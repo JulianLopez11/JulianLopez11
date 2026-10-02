@@ -17,8 +17,8 @@
 👋 Hi, I'm **Julian Lopez**, an enthusiastic **Information Technology** student at **Universidad Escuela Colombiana de Ingenieria Julio Garavito, Colombia**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
 
 ### 💡 What I Do  
-- 💻 **Proficient in:** , Java, Python, JavaScript, React, TypeScript, NestJs 
-- 🔍 **Passionate about:** Software Development, Machine Learning
+- 💻 **Proficient in:** , Java, Python, JavaScript, React, TypeScript, NestJs, AI
+- 🔍 **Passionate about:** Software Development, Machine Learning, Data Analysis
 
 ### 🚀 Looking For  
 - 💼 Exciting **development opportunities & tech collaborations**  
